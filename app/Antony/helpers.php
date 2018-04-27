@@ -343,7 +343,7 @@ if (!function_exists('format_money')) {
     {
         if (!$money instanceof Money) {
 
-            $money = new Money(is_int($money) ? $money : (int)$money, new Currency(config('site.currencies.default', 'KES')));
+            $money = new Money(is_int($money) ? $money : (int)$money, new Currency(config('site.currencies.default', 'INR')));
         }
 
         return $returnMoneyObject ? $money : (new MoneyFormatter())->format($money);
