@@ -2,7 +2,7 @@
 
 @section('head')
     @parent
-    <title>PC World&nbsp&middot&nbspSite usage policy</title>
+    <title>KnowledgeKart&nbsp&middot&nbspSite usage policy</title>
 @stop
 
 @section('slider')
@@ -23,7 +23,7 @@
                             What is this Privacy Policy for?</h2>
 
                         <p style="margin-bottom: 0px; padding: 4.34375px 0px 1em; border: 0px; font-size: 17.6000003814697px; font-stretch: inherit; line-height: 26.4000015258789px; vertical-align: baseline; color: rgb(102, 102, 102);">
-                            This privacy policy is for this website and served by PC-World and it governs the privacy of
+                            This privacy policy is for this website and served by KnowledgeKart and it governs the privacy of
                             its users who choose to use it.</p>
 
                         <p style="margin-bottom: 0px; padding: 4.34375px 0px 1em; border: 0px; font-size: 17.6000003814697px; font-stretch: inherit; line-height: 26.4000015258789px; vertical-align: baseline; color: rgb(102, 102, 102);">

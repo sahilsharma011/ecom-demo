@@ -38,7 +38,7 @@
                                     @else
                                         <div class="rating">
                                             <span class="text text-muted">Rating: </span>
-                                            <!-- http://ecomm.pc-world.com/products/52#comments-tab -->
+                                            <!-- http://ecomm.KnowledgeKart.com/products/52#comments-tab -->
                                             <span class="text text-info">(Not rated Yet)</span>
                                         </div>
                                     @endif

@@ -25,12 +25,12 @@ trait AccountActivationTrait
 
             $this->auth->login($user);
 
-            flash()->success("Your account was successfully activated. You are now a member at PC-World!.");
+            flash()->success("Your account was successfully activated. You are now a member at KnowledgeKart!.");
 
             return redirect()->intended($this->redirectPath());
         } else {
 
-            flash()->overlay("Your account was successfully activated. You are now a member at PC-World!. Please login to continue");
+            flash()->overlay("Your account was successfully activated. You are now a member at KnowledgeKart!. Please login to continue");
 
             return redirect()->route('login');
         }

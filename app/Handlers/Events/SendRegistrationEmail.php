@@ -55,7 +55,7 @@ class SendRegistrationEmail implements ShouldQueue
     public function subject()
     {
 
-        return "Welcome to PC-World";
+        return "Welcome to KnowledgeKart";
     }
 
 }

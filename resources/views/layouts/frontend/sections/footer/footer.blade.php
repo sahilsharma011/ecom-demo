@@ -75,7 +75,7 @@
 
     <div class="footer-bottom">
         <div class="container">
-            <p class="pull-left"> Copyright &copy; PC-World {{ date('Y') }}. All right reserved. </p>
+            <p class="pull-left"> Copyright &copy; KnowledgeKart {{ date('Y') }}. All right reserved. </p>
 
             <div class="pull-right">
                 <ul class="nav nav-pills payments">

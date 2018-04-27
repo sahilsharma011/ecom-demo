@@ -2,7 +2,7 @@
 
 @section('head')
     @parent
-    <title>Welcome to PC-World, Online shopping for Computers and accessories</title>
+    <title>Welcome to KnowledgeKart, Online shopping for Books</title>
 @stop
 
 @section('breadcrumbs')

@@ -19,7 +19,7 @@
             <h2>Hello, {{ ucfirst(array_get($data, 'user')) }}</h2>
 
             <p>
-                Thank you for creating an account at PC-World. We are pleased to have you on board. Please click the
+                Thank you for creating an account at KnowledgeKart. We are pleased to have you on board. Please click the
                 button below to complete the registration process.
             </p>
             <br/>

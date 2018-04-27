@@ -225,7 +225,7 @@
                                                 <div class="strike m-t-10 m-b-10">
                                                     <span>or</span>
                                                 </div>
-                                                <p>{!! link_to('/auth/register', 'Create a PC-World Account', [], true) !!}</p>
+                                                <p>{!! link_to('/auth/register', 'Create a KnowledgeKart Account', [], true) !!}</p>
 
                                                 <p class="text-small">An account will allow you to view your orders,
                                                     create

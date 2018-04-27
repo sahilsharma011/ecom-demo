@@ -1,5 +1,5 @@
 @if($unstyled)
-    PC-WORLD
+    KnowledgeKart
 @else
-    <h2 class="text-capitalize text-center">PC-WORLD</h2>
+    <h2 class="text-capitalize text-center">KnowledgeKart</h2>
 @endif

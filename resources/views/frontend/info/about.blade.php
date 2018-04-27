@@ -2,7 +2,7 @@
 
 @section('head')
     @parent
-    <title>About PC-World</title>
+    <title>About KnowledgeKart</title>
 @stop
 
 @section('slider')
@@ -18,7 +18,7 @@
         <div class="row ">
 
             <div class="col-md-6">
-                <h1>About PC-World</h1>
+                <h1>About KnowledgeKart</h1>
 
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias animi, aut earum explicabo ipsa
                     nobis. Aliquam, aliquid ea ex explicabo facilis id iste itaque iusto laudantium nesciunt, officia

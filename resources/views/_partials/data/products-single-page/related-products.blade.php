@@ -29,7 +29,7 @@
                             <div class="col-sm-12">
                                 <div class="rating text-small">
                                     <span class="text text-primary bold">Rating:&nbsp;</span>
-                                    <!-- http://ecomm.pc-world.com/products/52#comments-tab -->
+                                    <!-- http://ecomm.KnowledgeKart.com/products/52#comments-tab -->
                                     <span class="text text-info">Not reviewed Yet</span>
                                 </div>
                             </div>
