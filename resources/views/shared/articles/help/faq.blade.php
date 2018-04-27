@@ -14,7 +14,7 @@
         <div class="row">
             <div class="col-md-12 m-b-20">
                 <h2>Frequently Asked Questions</h2>
-                <span class="title-tag">Last Updated on November 02, 2014</span>
+                <span class="title-tag">Last Updated on April 12, 2018</span>
 
                 <div class="m-t-20 panel-group checkout-steps" id="accordion">
                     <!-- checkout-step-01  -->
