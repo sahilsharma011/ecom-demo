@@ -132,7 +132,7 @@ return [
     'money' => [
 
         // Set the default currency
-        'default_currency' => 'KES',
+        'default_currency' => 'INR',
 
         // Set the VAT rate
         'VAT_RATE' => 0.16,
