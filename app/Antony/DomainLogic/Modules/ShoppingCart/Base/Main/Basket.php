@@ -345,7 +345,7 @@ class Basket implements ShoppingCartContract, ShoppingCartCache
             }),
             // Get the number of products in the basket, regardless of their quantities.
             'product_count' => $this->getProducts()->count(),
-            'currency' => config('site.currencies.default', 'KES'),
+            'currency' => config('site.currencies.default', 'INR'),
             'shipping' => $this->getShippingSubTotal(false),
             'VAT' => $this->getCartTaxSubTotal(false),
             'basket_total' => $this->getCartSubTotal(false),
