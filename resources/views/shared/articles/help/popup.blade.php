@@ -2,7 +2,7 @@
 
 @section('head')
     @parent
-    <title>PC World Help - {{ $article->topic }}</title>
+    <title>Knowledge Kart Help - {{ $article->topic }}</title>
 @stop
 @section('main-nav')
 

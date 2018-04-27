@@ -33,7 +33,7 @@
             </div>
             <div class="col-md-4 p-all-10 m-b-20">
                 <p class="text text-center bold">
-                    &copy; PC World {{ date('Y') }}
+                    &copy; KnowledgeKart {{ date('Y') }}
                 </p>
             </div>
         </div>

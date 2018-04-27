@@ -2,7 +2,7 @@
 
 @section('head')
     @parent
-    <title>PC World&nbsp;&middot;&nbsp;Review Order</title>
+    <title>Knowledge Kart&nbsp;&middot;&nbsp;Review Order</title>
 @stop
 
 @section('main-nav')

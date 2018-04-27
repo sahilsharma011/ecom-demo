@@ -2,7 +2,7 @@
 
 @section('head')
     @parent
-    <title>PC World&nbsp&middot&nbspContacts</title>
+    <title>KnowledgeKart&nbsp&middot&nbspContacts</title>
 @stop
 
 @section('slider')

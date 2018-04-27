@@ -2,7 +2,7 @@
 
 @section('head')
     @parent
-    <title>PC World&nbsp;&middot;&nbsp;View Invoice {{ $order->id }}</title>
+    <title>KnowledgeKart&nbsp;&middot;&nbsp;View Invoice {{ $order->id }}</title>
 @stop
 
 @section('main-nav')

@@ -2,7 +2,7 @@
 
 @section('head')
     @parent
-    <title>PC World&nbsp;&middot;&nbsp;Checkout</title>
+    <title>KnowledgeKart&nbsp;&middot;&nbsp;Checkout</title>
 @stop
 @section('main-nav')
     @include('layouts.frontend.sections.navigation.main-nav', ['small' => true, 'altText' => 'Checkout'])
