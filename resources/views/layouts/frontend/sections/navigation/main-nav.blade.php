@@ -216,7 +216,7 @@
                                             <h3 class="bold text-center">My Account</h3>
 
                                             <div class="col-xs-12">
-                                                <a href="{{ secure_url('/account/login') }}" class="link-btn">
+                                                <a href="{{ url('/auth/login') }}" class="link-btn">
                                                     <button class="btn btn-info btn-block">
                                                         <i class="fa fa-sign-in"></i>&nbsp;Sign In
                                                     </button>
@@ -225,7 +225,7 @@
                                                 <div class="strike m-t-10 m-b-10">
                                                     <span>or</span>
                                                 </div>
-                                                <p>{!! link_to('/account/register', 'Create a PC-World Account', [], true) !!}</p>
+                                                <p>{!! link_to('/auth/register', 'Create a PC-World Account', [], true) !!}</p>
 
                                                 <p class="text-small">An account will allow you to view your orders,
                                                     create
